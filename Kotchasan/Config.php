@@ -145,7 +145,7 @@ class Config
      *
      * @var string
      */
-    public $web_title = 'Kotchasan PHP Framework';
+    public $web_title = 'ระบบห้องประชุมออนไลน์ Pakpoon';
     /**
      * @var Singleton used to invoke this class only once
      */
